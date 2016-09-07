@@ -4,4 +4,5 @@
 deps/downloads
 deps/src
 deps/deps.jl
-builds
+deps/builds
+deps/usr
