@@ -3,7 +3,14 @@
 A wrapper around the [LibXC](http://www.tddft.org/programs/octopus/wiki/index.php/Libxc) DFT eXchange
 and correlation library
 
-Usage:
+## Installation
+```julia
+julia> Pkg.clone("https://github.com/dceresoli/LibXC.jl")
+...
+julia> Pkg.build("LibXC")
+```
+
+## Usage:
 
 ```julia
 using LibXC
@@ -32,4 +39,4 @@ for i = 1:5
 end
 
 LibXC.xc_func_end(func)
-
+```
