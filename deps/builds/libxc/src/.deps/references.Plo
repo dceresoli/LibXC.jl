@@ -1,0 +1,20 @@
+references.lo: \
+ /home/ceresoli/Julia-Work/Pkg/LibXC/deps/src/libxc-3.0.0/src/references.c \
+ /usr/include/stdc-predef.h \
+ /home/ceresoli/Julia-Work/Pkg/LibXC/deps/src/libxc-3.0.0/src/xc.h \
+ ../xc_version.h \
+ /home/ceresoli/Julia-Work/Pkg/LibXC/deps/src/libxc-3.0.0/src/xc_config.h \
+ xc_funcs.h \
+ /home/ceresoli/Julia-Work/Pkg/LibXC/deps/src/libxc-3.0.0/src/xc_unconfig.h
+
+/usr/include/stdc-predef.h:
+
+/home/ceresoli/Julia-Work/Pkg/LibXC/deps/src/libxc-3.0.0/src/xc.h:
+
+../xc_version.h:
+
+/home/ceresoli/Julia-Work/Pkg/LibXC/deps/src/libxc-3.0.0/src/xc_config.h:
+
+xc_funcs.h:
+
+/home/ceresoli/Julia-Work/Pkg/LibXC/deps/src/libxc-3.0.0/src/xc_unconfig.h:

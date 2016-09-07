@@ -1,0 +1,5 @@
+const XC_VERSION = v"3.0.0"
+const XC_MAJOR_VERSION = 3
+const XC_MINOR_VERSION = 0
+const XC_MICRO_VERSION = 0
+
